@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zc13nce
+- 👋 Hi, I’m @zc13nce / Zane
 - 👀 I’m interested in all sorts of creative outlets.
 - 🌱 I’m currently learning hackthebox academy courses.
 - 💞️ I’m looking to collaborate and explore new topics!
