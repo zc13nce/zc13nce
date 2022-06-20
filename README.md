@@ -8,7 +8,7 @@
 - ✔ Here is a link to my PicoCTF account.
 - https://play.picoctf.org/users/zc13nce
 
-- Current repositories with summary
+- Current Repositories
 
 // Python Games
 
