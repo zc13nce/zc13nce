@@ -2,7 +2,8 @@
 - 👀 I’m interested in all sorts of creative outlets.
 - 🌱 I’m currently learning hackthebox academy courses.
 - 💞️ I’m looking to collaborate and explore new topics!
-
+- ✔ Here is a link to my Indeed.
+- https://my.indeed.com/resume/editor
 - ✔ Here is a link to my replit. I keep most of my programs on replit with folders for online access.
 - https://replit.com/@zc13nce?path=
 - ✔ Here is a link to my PicoCTF account.
